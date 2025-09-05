@@ -1,6 +1,7 @@
 # 🔐 PassGen
 
 A simple and secure password generator built with Next.js
+see it live at [https://passgen-murex-xi.vercel.app/](https://passgen-murex-xi.vercel.app/)
 
 ## ✨ Features
 
